@@ -1,6 +1,6 @@
 # JY_Detector
 
-VirtualBox Detection
+VirtualBox Detection:
 Files
 Regedit
 Folder
@@ -9,7 +9,7 @@ Mac
 Bios
 Window
 
-VMWare Detection
+VMWare Detection:
 Files
 Folder
 Regedit
@@ -22,12 +22,12 @@ Memory
 Version
 IDTR, LDTR, TR, SMSW, I/O Port
 
-QEMU Detection
+QEMU Detection:
 Regedit
 Bios
 CPU
 
-Cuckoo Sandbox Detection
+Cuckoo Sandbox Detection:
 Files
 Folder
 Port
