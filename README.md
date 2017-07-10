@@ -1,12 +1,12 @@
 # JY_Detector
 
-VirtualBox Detection:
+VirtualBox Detection
 
 
-VMWare Detection:
+VMWare Detection
 
 
-QEMU Detection:
+QEMU Detection
 
 
-Cuckoo Sandbox Detection:
+Cuckoo Sandbox Detection
